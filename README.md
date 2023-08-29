@@ -14,7 +14,7 @@
 
 - 💻 &nbsp; Python | Pyspark | ML
 - 🛢 &nbsp; MySQL| power BI | MS-Excel
-- 🔧 &nbsp; PyCharm | Visual Studio          code | jupyter 
+- 🔧 &nbsp; PyCharm | Visual Studio           code | jupyter 
 
 <br>
 
