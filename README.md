@@ -12,7 +12,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Pyspark | Machine learning   
-- 🛢 &nbsp; MySQL | MongoDB | power BI | MS-Excel 
+- 🛢 &nbsp; MySQL | power BI | MS-Excel 
 - 🔧 &nbsp; PyCharm | Visual Studio code | jupyter 
 
 <br>
