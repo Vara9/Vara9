@@ -3,17 +3,18 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Data science.
+- 🔭 &nbsp;I’m currently learning Data       science.
 - 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Studying Mathematics,statistics.
-- 🌱 &nbsp; Enthusiast in Data analytics.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+-🎓  &nbsp;Studying
+     Mathematics,statistics.
+- 🌱 &nbsp; Enthusiast in Dataanalytics.
+- ☕ &nbsp; I belive,a perfect cup of        coffee can be the ultimatesolution      for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Pyspark | ML
 - 🛢 &nbsp; MySQL| power BI | MS-Excel
-- 🔧 &nbsp; PyCharm | Visual Studio code | jupyter 
+- 🔧 &nbsp; PyCharm | Visual Studio          code | jupyter 
 
 <br>
 
